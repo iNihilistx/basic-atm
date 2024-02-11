@@ -1,0 +1,15 @@
+D:\cs-projects\ATM\ATM\bin\Debug\net6.0\ATM.exe
+D:\cs-projects\ATM\ATM\bin\Debug\net6.0\ATM.deps.json
+D:\cs-projects\ATM\ATM\bin\Debug\net6.0\ATM.runtimeconfig.json
+D:\cs-projects\ATM\ATM\bin\Debug\net6.0\ATM.dll
+D:\cs-projects\ATM\ATM\bin\Debug\net6.0\ATM.pdb
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.AssemblyReference.cache
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfoInputs.cache
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.AssemblyInfo.cs
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.csproj.CoreCompileInputs.cache
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.dll
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\refint\ATM.dll
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.pdb
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ATM.genruntimeconfig.cache
+D:\cs-projects\ATM\ATM\obj\Debug\net6.0\ref\ATM.dll
